@@ -1,0 +1,6 @@
+version: '3.8'
+services:
+  app:
+    image: saramm1237/quiz1gestion
+    ports:
+      - "3000:3000"
